@@ -6281,6 +6281,8 @@ Source: www.kingbright.com</description>
 <text x="205.74" y="-5.08" size="1.778" layer="91">OUTPUT SCALING &amp; OFFSET AMP</text>
 <text x="312.42" y="15.24" size="1.778" layer="91">ON/OFF COMPARATOR &amp; LED</text>
 <text x="246.38" y="-78.74" size="1.778" layer="91">UNUSED OP-AMPS (WOULD BE USED IN SUBSEQUENT CHANNEL CIRCUIT)</text>
+<text x="256.54" y="27.94" size="1.778" layer="91">0-5V ANALOG OUT</text>
+<text x="320.04" y="30.48" size="1.778" layer="91">ON/OFF OUTPUT</text>
 </plain>
 <instances>
 <instance part="P+1" gate="1" x="165.1" y="10.16"/>
